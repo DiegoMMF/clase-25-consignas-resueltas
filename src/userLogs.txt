@@ -1,0 +1,8 @@
+
+    El usuario ingreso en: /admin?user=Ada
+    El usuario ingreso en: /admin?user=Diego
+    El usuario ingreso en: /admin?user=Diego
+    El usuario ingreso en: /admin?user=Ada
+    El usuario ingreso en: /admin?user=Diego
+    El usuario ingreso en: /admin?user=Ada
+    El usuario ingreso en: /admin
